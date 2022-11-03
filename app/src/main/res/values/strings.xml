@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">InfoApp</string>
+
+    <!-- Languages Name -->
+    <string name="lan1">C</string>
+    <string name="lan2">C++</string>
+    <string name="lan3">Java</string>
+    <string name="lan4">Python</string>
+    <string name="lan5">Kotlin</string>
+    <string name="lan6">Swift</string>
+    <string name="lan7">Rust</string>
+    <string name="lan8">PHP</string>
+    <string name="lan9">Java Script</string>
+    <string name="lan10">Ruby</string>
+    <string name="lan11">Type Script</string>
+    <string name="lan12">Dart</string>
+    <string name="lan13">Go</string>
+
+    <!-- Info of languages -->
+    <string name="info1">History of C language is interesting to know. Here we are going to discuss a brief history of the c language.
+            C programming language was developed in 1972 by Dennis Ritchie at bell laboratories of AT and T (American Telephone and Telegraph),
+            located in the U.S.A. Dennis Ritchie is known as the founder of the c language.It was developed to overcome the problems of previous
+            languages such as B, BCPL, etc. Initially, C language was developed to be used in UNIX operating system.
+            It inherits many features of previous languages such as B and BCPL.</string>
+    <string name="info2">C++ was developed by Bjarne Stroustrup at Bell Laboratories over a period starting in 1979.
+        Since C++ is an attempt to add object-oriented features (plus other improvements) to C, earlier it was called
+        as “C with Objects”. As the language developed, Stroustrup named it as C++ in 1983. The name C++ suggests “C incremented”
+        (recall the ++ is an increment operator of C).\nC++ was made available outside Bell Laboratories in 1985. The first commercial
+        C++ compiler, Cfront, was released in 1985. It was only a front-end compiler for C. The American National
+        Standard Institute (ANSI)
+        formed a committee for (precise description of computer language) C++, in 1989. The first draft standards were published in 1995.
+        The draft was modified later on. Revised draft was approved in 1998. Turbo C++ version 3.0 (from Borland International)
+        was available in 1992.</string>
+    <string name="info3">Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.
+        Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java.
+        Before Java, its name was Oak. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.
+        Platform: Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment (JRE)
+        and API, it is called a platform.</string>
+    <string name="info4">Python is a widely used general-purpose, high-level programming language. It was initially designed by Guido van Rossum in
+        1991 and developed by Python Software Foundation. It was mainly developed for emphasis on code readability, and its syntax allows
+        programmers to express concepts in fewer lines of code. In the late 1980s, history was about to be written. It was that time when working 
+        on Python started. Soon after that, Guido Van Rossum began doing its application based work in December of 
+        1989 by at Centrum Wiskunde and Informatica (CWI) which is situated in Netherlands. It was started firstly as
+        a hobby project because he was looking for an interesting project to 
+        keep him occupied during Christmas. The programming language which Python is said to have succeeded is ABC Programming Language, which had the 
+        interfacing with the Amoeba Operating System and had the feature of exception handling. He had already helped to create ABC earlier in his career
+        and he had seen some issues with ABC but liked most of the features. After that what he did as really very clever. He had taken the syntax of
+        ABC, and some of its good features. It came with a lot of complaints too, so he fixed those issues completely and had created a good scripting 
+        language which had removed all the flaws. The inspiration for the name came from BBC\'s TV Show – ‘Monty Python\'s Flying Circus\', as he was a 
+        big fan of the TV show and also he wanted a short, unique and slightly mysterious name for his invention and hence he named it Python! He was the
+        “Benevolent dictator for life” (BDFL) until he stepped down from the position as the leader on 12th July 2018. For quite some time he used to work
+        for Google, but currently, he is working at Dropbox. The language was finally released in 1991. When it was released, it used a lot fewer codes to
+        express the concepts, when we compare it with Java, C++ and C. Its design philosophy was quite good too. Its
+        main objective is to provide code
+        readability and advanced developer productivity. When it was released it had more than enough capability to provide classes with inheritance, 
+        several core data types exception handling and functions. </string>
+    <string name="info5">Kotlin was developed by JetBrains in 2010. They initially released it under the name Project Kotlin in July 2011. They
+        needed a language that was concise, elegant, expressive, and also interoperable with Java, as most of their products were
+        developed in Java, including the Intellij Idea. They were looking for an alternate language to reduce the amount of boilerplate code required
+        and to introduce new constructs, such as higher-order functions, to make language more expressive and concise. One of the goals of the Kotlin
+        language was to be able to compile code as quickly as Java.</string>
+    <string name="info6">Swift was introduced in 2014 at Apples\'s Worldwide Developers Conference.
+        The development of Swift was started in 2010 by Chris Lattner with other programmers i.e. Doug Gregor, John McCall, Ted Kremenek, and Joe Groff
+        at Apple. The basic idea of Swift was taken from Objective-C, Rust, Haskell, Ruby, Python, C#, CLU, and many other programming languages.
+        Swift first version was 1.0 which undergone a major upgrade to Swift 2 at WWDC 2015. Its upgraded version 2.2 was made open-source software under
+        the Apache License 2.0 on December 3, 2015, for Apple\'s platforms and Linux.
+        Its third version, Swift 3.0 went through a significant evolution where its syntax was changed. Swift overcame the popularity of Objective
+        C in the first quarter of 2018.</string>
+    <string name="info7">The Rust programming language first debuted in 2010. Despite its relative youth, however, the language has quickly gained
+        in popularity, offering a combination of performance and features that make it an appealing alternative to
+        traditional options. Rust began as a side project of Graydon Hoare, an employee at Mozilla. In short order, Mozilla saw the potential of the
+        new language and began sponsoring it, before revealing it to the world in 2010.
+        One possible source of the name, according to Hoare, is the rust fungus. This has caused Rust programmers to adopt “Rustceans” as their moniker of
+        choice. While Rust is relatively new, it has obviously gained a strong following. In relation to the languages it is compared against, especially
+        C and
+        C++, Rust is easier to learn and safer to use for new programmers.</string>
+    <string name="info8">PHP was conceived sometime in the fall of 1994 by Rasmus Lerdorf. Early non-released versions were used on his home page to keep
+        track of who was looking at his online resume. The first version used by others was available sometime in early 1995 and was known as the
+        Personal Home Page Tools. It consisted of a very simplistic parser engine that only understood a few special macros and a number of
+        utilities that were in common use on home pages back then. A guestbook, a counter and some other stuff. The parser was rewritten in mid-1995
+        and named PHP/FI Version 2. The FI came from another package Rasmus had written which interpreted html form data. He combined the Personal Home
+        Page tools scripts with the Form Interpreter and added mSQL support and PHP/FI was born. PHP/FI grew at an amazing pace and people started
+        contributing code
+        to it. It is difficult to give any hard statistics, but it is estimated that by late 1996 PHP/FI was in use on at least 15,000 web sites around
+        the world. By mid-1997 this number had grown to over 50,000. Mid-1997 also saw a change in the development of PHP. It changed from being Rasmus\'
+        own pet project that a handful of people had contributed to, to being a much more organized team effort. The parser was rewritten from scratch by
+        Zeev Suraski and Andi Gutmans and this new parser formed the basis for PHP Version 3. A lot of the utility code from PHP/FI was ported over to PHP3
+        and a lot of it was completely rewritten.</string>
+    <string name="info9">JavaScript is everywhere, and for the seventh year in a row, it has been ranked the most commonly used programming language,
+        with 67.8% of developers employing it in 2019. Its ascent to the world\'s most popular programming language is synonymous with the rise of
+        the internet itself. Created out of necessity, it is used to build 95.2% (1.52 billion) of websites today, including some of the world\'s largest
+        , like Facebook and YouTube. Without it, we would not have popular and useful web apps such as Google Maps and eBay. JavaScript is a scripting
+        language that is one of the three core languages used to develop websites. Whereas HTML and CSS give a website structure and style, JavaScript lets
+        you add functionality and behaviors to your website, allowing your website\'s visitors to interact with content in many imaginative ways.
+        JavaScript is primarily a client-side language, meaning it runs on your computer within your browser. However, more recently the introduction
+        of Node.js has allowed JavaScript to also execute code on servers.
+        Since its release, JavaScript has surpassed Java, Flash, and other languages because it is relatively easy to learn, has a free and open community,
+        and, most importantly, is incredibly useful, allowing developers to quickly create apps with audiences in the millions.</string>
+    <string name="info10">Ruby was created by Yukihiro Matsumoto, or "Matz", in Japan in the mid 1990\'s. It was
+        designed for programmer productivity with the idea that programming should be fun for programmers. It emphasizes the necessity for software
+        to be understood by humans first and computers second. Ruby continues to gain popularity for its use in web application development. The Ruby on Rails framework, built with the Ruby
+        language by David Heinemeier Hansson, introduced many people to the joys of programming in Ruby. Ruby has a vibrant community that is supportive
+        for beginners and enthusiastic about producing high-quality code.</string>
+    <string name="info11">TypeScript programming language was designed and developed by Anders Hejlsberg at Microsoft
+        in the year 2012. TypeScript programming language is now maintained by Microsoft. The first version of
+        TypeScript programming language i.e. version 0.8 was publically introduced in October, 2012. And the lastest version of TypeScript programming
+        language i.e. version 4.2.4 was officially released on 9 April 2021. TypeScript programming language is an extended version of JavaScript
+        programming language with some added features. TypeScript programming language is an open source programming language since its origin and it
+        was licensed under Apache 2.0 license. TypeScript programming language is a superset of JavaScript programming language or in simple words
+        TypeScript programming language is an extended JavaScript with added features. TypeScript programming language is considered as both Computer
+        programming language and set of tools. It is a simple, easy to learn and fast programming language. TypeScript programming language is an open
+        source programming language since its origin which means that anyone can download and use it for free from its official website and it was
+        licensed under Apache 2.0 license.
+        TypeScript programming language supports multi paradigm like imperative, functional, generic and object oriented. TypeScript programming
+        language is considered as object oriented programming language as it follows all the concepts of object oriented programming approach like class
+        , inheritance, abstraction, polymorphism and encapsulation, etc. TypeScript programming language is portable programming language which is
+        designed to develop large JavaScript applications and transpiler to JavaScript programming language.
+        TypeScript programming language is also used to develop both client server and side server applications of JavaScript programming language.
+        TypeScript programming language is a complied programming language whose codes are complied into plain JavaScript programming language. Along with
+        this, TypeScript programming language supports different typing disciplines like duck, gradual and structural. TypeScript programming language
+        also supports the feature of error checking during compilation. And apart from this, TypeScript programming language also supports different
+        libraries and elements of JavaScript programming language. The idea of developing TypeScript programming language was taken from many other
+        programming languages like Java, JavaScript and C#.</string>
+    <string name="info12">Dart is a modern, class based and easy to learn programming language. Dart programming language is originally designed
+        as a client optimised programming language for fast development of web and mobile applications. Dart programming language is an open
+        source programming language which is licensed under BDS. It is a programming language which supports multi paradigm like imperative,
+        functional, reflective and Object oriented programming. Dart programming language follows all concepts of object oriented programming approach
+        like class, inheritance, abstraction, encapsulation, and polymorphism, etc. Dart programming language is a strongly typed which provides
+        the feature of automatic garbage collector.
+        The syntax of Dart programming language are simple C-style syntax. Dart programming language is a multi purpose or general purpose 
+        programming language which means that it can be used in developing different types of applications and programs. The Dart programming language
+        is mainly used in developing web applications, mobile applications, desktop applications, servers, etc. Dart programming language is a cross
+        platform or platform independent programming language which means that it can be run on different operating systems like Windows, Linux, Unix and
+        MacOS, etc.
+        Dart programming language was influenced by many other programming languages like Java, C# and JavaScript. Dart programming language is a
+        complied programming language which means that compiler is used to convert the codes written in Dart programming language into native language
+        or JavaScript. You all must be curious about the history of Dart programming language or wondering who developed Dart programming language.
+        There are various interesting facts related to the origin of Dart programming language. So, let\'s discuss in detail about the history of Dart
+        programming language. Dart programming language was designed and developed by Lars Bak and Kasper Lund at Google.
+        Dart programming language was officially introduced in 10 Oct, 2011 and the first version of Dart programming language i.e. version 1.0 was
+        officially released in 14 Nov, 2013. The latest version of Dart programming language is version 2.13.0 which is released in 18 May, 2021.</string>
+    <string name="info13">The story of the Go programming language started at Google, when three engineers, Robert Griesemer, Rob Pike, and Ken
+        Thompson grew weary of C++\'s complexity, and the lack of a simple language providing efficient compilation and execution. That\'s why on September
+        21, 2007, they started designing a new language. It took them two years before, on November 10, 2009, the Go programming language became a
+        public open source project. After three more years, in March 2012, version 1.0 of the Go language was released.
+        The Go inventors\' main goal was to combine the ease of programming from an interpreted, dynamically-typed language with the efficiency
+        and safety coming from a statically-typed, compiled language. Moreover, the Go language was intended to support network and multicore computing,
+        and to accelerate the coding process.
+        To achieve these goals, Griesemer, Pike, and Thompson focused on simplicity. That\'s why the Go language\'s syntax is inspired by the C family.
+        Other input, e.g. from Pascal, you can notice in the declarations and packages. The other inspirations were Newsqueak and Limbo - they helped
+        create the concurrency aspect of Go. That makes this programming language a mix of the best features of these various solutions. </string>
+</resources>
